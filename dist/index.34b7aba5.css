@@ -1,0 +1,21 @@
+.movielist {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.table {
+  margin: 2rem;
+}
+
+.movielist {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.table {
+  margin: 0, 2, 0, 2;
+}
+
+/*# sourceMappingURL=index.34b7aba5.css.map */

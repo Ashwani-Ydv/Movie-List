@@ -1,0 +1,1 @@
+{"mappings":"AAGA","sources":["src/app.css"],"sourcesContent":[".app {\r\n}\r\n\r\n.movielist {\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center;\r\n}\r\n"],"names":[],"version":3,"file":"index.4a5519d3.css.map","sourceRoot":"/__parcel_source_root/"}

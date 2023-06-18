@@ -1,0 +1,12 @@
+.app {
+}
+
+.movielist {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table {
+  margin: 2rem;
+}
